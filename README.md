@@ -8,7 +8,7 @@ React + Node Test
 https://drive.google.com/file/d/1y9rD7AH_Ia3I5rYnGp35-mcyRqSd6Hgf/view?usp=sharing
 
 2. Specification
-- You can invite the use by clicking the button (INVITE STAFF)
+- You can invite the user by clicking the button (INVITE STAFF)
 - You can remove the user by clicking the remove button on the list item.
 - You should indicate how long ago user came in.
 - All actions are should be done api calling with backend.
@@ -29,3 +29,4 @@ https://drive.google.com/file/d/1y9rD7AH_Ia3I5rYnGp35-mcyRqSd6Hgf/view?usp=shari
 - Run `npm install`
 - Run `npm start`
 - Backend should be running at `http://localhost:8000`
+- Can update the db user and password from `backend/models/index.js`
